@@ -1,4 +1,3 @@
-<h1 align="center">Hi 👋, I'm Ashwin A Nair</h1>
 <h3 align="center">I'm a passionate Flutter developer and competitive coding enthusiast. With a strong foundation in C, C++, and Java, I enjoy solving complex problems and creating efficient, user-friendly applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashwinnair10&label=Profile%20views&color=0e75b6&style=flat" alt="ashwinnair10" /> </p>
